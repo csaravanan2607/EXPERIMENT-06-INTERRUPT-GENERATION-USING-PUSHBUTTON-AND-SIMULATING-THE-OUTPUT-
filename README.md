@@ -1,6 +1,6 @@
 ## EXPERIMENT - 06 
 ## INTERRUPT GENERATION USING PUSHBUTTON AND SIMULATING THE OUTPUT
-# Date : 10/11/24
+## Date : 10/11/24
 
 ### Aim :
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
